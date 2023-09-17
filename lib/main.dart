@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:stockhauz_mobile/src/themes/app_theme.dart';
+import 'package:stockhauz_mobile/src/config/themes/app_theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
